@@ -2,3 +2,4 @@ hola, soy Hugo ortega, ingeniero de sistemas
 y estoy llevando cursos de desarrollo e infraestructura por temas de actualización, tengo 46 años y siempre se esta en constante aprendizaje
 con la diferencia que se aplica la experiencia obtenida.
 Me gustan los gatos.
+Me gustan los perros.
