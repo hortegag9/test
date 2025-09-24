@@ -27,16 +27,7 @@ pipeline {
                echo "======================"
             }
            }
-         stage("impresion de variable de entorno definido en system de jenkis"){
-           steps{
-               echo "${env.INSTAGRAM}"
-               echo "${INSTAGRAM}"
-               echo "$INSTAGRAM"
-               echo "*********************"
-               sh "echo ${env.INSTAGRAM}"
-               sh "echo ${INSTAGRAM}"
-               sh "echo $INSTAGRAM"
-           }
-         }  
+                   
+           
     }
 }
