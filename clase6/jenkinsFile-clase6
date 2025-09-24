@@ -1,0 +1,12 @@
+pipeline {
+    agent any
+        stages {
+        stage("saludo 1"){
+            steps{
+             echo "hola desde saludo_1 v2.0"    
+            }
+          }    
+            
+           
+    }
+}
